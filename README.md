@@ -1,7 +1,7 @@
 # Portfolio
 
-- About me
-- CV
+- [About me] (https://github.com/Duangjaii/Portfolio#about-me)
+- [CV]
 - Skills
 - Tools
 - Courses
