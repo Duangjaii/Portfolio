@@ -1,6 +1,6 @@
 # Portfolio
 
-- [About me] (https://github.com/Duangjaii/Portfolio#about-me)
+- [About me](ที่อยู่ลิงค์)
 - [CV]
 - Skills
 - Tools
