@@ -6,7 +6,7 @@
 - [Tools](https://github.com/Duangjaii/Portfolio#tools)
 - [Courses](https://github.com/Duangjaii/Portfolio#courses)
 - [Example of my works](https://github.com/Duangjaii/Portfolio#example-of-my-works)
-    - Test cases and Test Scenarios
+    - Test cases and Test Scenarios 
     - API Test cases
     - Robotframework testing with selenium library
     - Log issue
@@ -28,6 +28,9 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 # Skills
 **Manual testing**
 - Performing manual functional and usability testing of web applications.
+
+**Automated testing**
+- Performing test execution by using robot framework with seleniumlibrary.
 
 **Test analysis & design**
 
@@ -91,13 +94,13 @@ Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1
   
 Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1TLpuRCfgKDXVLkjbjYRC93vVgMbNDWD0jRpB73J_E_Q/edit?usp=drive_link).
 
-- Bug report.
-
-Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1R4ri7O6FOmxLD98cZscUG5WFfboo29QEb8LTR1c3Nq4/edit?usp=drive_link)
-
 - Register website https://practice.automationtesting.in/my-account robot framework with selenium library test cases.
 
 Check [the github here](https://github.com/Duangjaii/Portfolio/blob/main/robottestcases)
+
+- Bug report.
+
+Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1R4ri7O6FOmxLD98cZscUG5WFfboo29QEb8LTR1c3Nq4/edit?usp=drive_link)
 
 # Learning resources
 - https://www.coursera.org/
