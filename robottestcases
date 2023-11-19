@@ -1,0 +1,76 @@
+*** Settings ***
+Library	SeleniumLibrary
+
+*** Variables ***
+${message}	My Message 
+
+
+*** Keywords ***
+Say Hello
+	Log to console	ThisIsSayHello
+
+*** Test cases ***
+
+TC-001 Verify that when input correct email and password then user can register 
+	Open Browser    https://practice.automationtesting.in/my-account/  Chrome    options=add_experimental_option("detach", True)
+	input text		//*[@id="reg_email"]            manopanduang@gmail.com
+	input text		//*[@id="reg_password"] 	    wertyuiop
+	click element   //*[@id="customer_login"]/div[2]/form/p[3]/input[3]
+	sleep           30
+    close Browser
+
+TC-002 Verify that when input correct email and short password then user can't register -result can register but very weak please enter the strong password at least 7 characters
+	Open Browser    https://practice.automationtesting.in/my-account/  Chrome    options=add_experimental_option("detach", True)
+	input text		//*[@id="reg_email"]            manopanduang@gmail.com
+	input text		//*[@id="reg_password"] 	    123456
+	click element   //*[@id="customer_login"]/div[2]/form/p[3]/input[3]
+	sleep           30
+    close Browser
+
+TC-003 Verify that when input correct email and invalid password then user can't register -should fail but not
+	Open Browser    https://practice.automationtesting.in/my-account/  Chrome    options=add_experimental_option("detach", True)
+	input text		//*[@id="reg_email"]            manopanduang@gmail.com
+	input text		//*[@id="reg_password"] 	    ฟหกด่าสว
+	click element   //*[@id="customer_login"]/div[2]/form/p[3]/input[3]
+	sleep           30
+    close Browser
+
+TC-004 Verify that when empty email and correct password then user can't register -should fail 
+Open Browser    https://practice.automationtesting.in/my-account/  Chrome    options=add_experimental_option("detach", True)
+	input text		//*[@id="reg_email"]            
+	input text		//*[@id="reg_password"] 	    wertyuiop
+	click element   //*[@id="customer_login"]/div[2]/form/p[3]/input[3]
+	sleep           30
+    close Browser
+
+TC-005 Verify that when correct email and empty password then user can't register -should fail 
+Open Browser    https://practice.automationtesting.in/my-account/  Chrome    options=add_experimental_option("detach", True)
+	input text		//*[@id="reg_email"]            manopanduang@gmail.com
+	input text		//*[@id="reg_password"] 	    
+	click element   //*[@id="customer_login"]/div[2]/form/p[3]/input[3]
+	sleep           30
+    close Browser
+
+TC-006 Verify that when empty email and empty password then user can't register -should fail 
+Open Browser    https://practice.automationtesting.in/my-account/  Chrome    options=add_experimental_option("detach", True)
+	input text		//*[@id="reg_email"]            
+	input text		//*[@id="reg_password"] 	    
+	click element   //*[@id="customer_login"]/div[2]/form/p[3]/input[3]
+	sleep           30
+    close Browser
+
+TC-007 Verify that when invalid email pattern and correct password then user can't register -should fail 
+Open Browser    https://practice.automationtesting.in/my-account/  Chrome    options=add_experimental_option("detach", True)
+	input text		//*[@id="reg_email"]            manopanduang
+	input text		//*[@id="reg_password"] 	    wertyuiop
+	click element   //*[@id="customer_login"]/div[2]/form/p[3]/input[3]
+	sleep           30
+    close Browser
+
+TC-008 Verify that when invalid email pattern and password then user can't register -should fail 
+Open Browser    https://practice.automationtesting.in/my-account/  Chrome    options=add_experimental_option("detach", True)
+	input text		//*[@id="reg_email"]            manopanduang
+	input text		//*[@id="reg_password"] 	    f;'ls9#$%'
+	click element   //*[@id="customer_login"]/div[2]/form/p[3]/input[3]
+	sleep           30
+    close Browser
