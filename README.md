@@ -95,6 +95,10 @@ Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1
 
 Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1R4ri7O6FOmxLD98cZscUG5WFfboo29QEb8LTR1c3Nq4/edit?usp=drive_link)
 
+- Register website https://practice.automationtesting.in/my-account robot framework with selenium library test cases.
+
+Check [the github here](https://github.com/Duangjaii/Portfolio/blob/main/robottestcases)
+
 # Learning resources
 - https://www.coursera.org/
 - Youtube: KongRuksiam Official, Doppio Tech, Siam Chamnankit, BorntoDev
