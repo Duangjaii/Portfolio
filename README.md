@@ -13,11 +13,11 @@
 - [Learning resources](https://github.com/Duangjaii/Portfolio#learning-resources)
 
 # About me
-I have a strong coordination, organization and problem solving, due to my background as project coordinator, middle and high school tutor, elementary school teacher and seller that give me the opportunity to communicate with many kinds and generations of people. I have a strong curiosity that makes me eager to learn many things and love working in a team. Moreover, attention to detail is my strong trait as the Thai design jewelry shop owner, my products are made of gold and silver and done it by the goldsmith, so all products are detailed and delicate work that I have to check precisely before selling to customer.
+I have a strong coordination, organization and problem solving, due to my background as project coordinator, middle and high school tutor, elementary school teacher and seller that give me the opportunity to communicate with many kinds and generations of people. I have a strong curiosity that makes me eager to learn many things and love working in a team. Moreover, attention to detail is my strong trait for example as the Thai design jewelry shop owner, my products are handmade gold and silver jewelry, so all products are detailed and delicate work that I have to check precisely before selling to customers.
 
 After I gathered the feedback of customers from the bank products, and I’ve found many problems about technologies like mobile banking application. These problems make a lot of bad effects, therefore I realized that how important the software tester are in the a rapidly-progressive technology. 
 
-Currently, I am intensively studying software tester techniques and tools by attending online courses, reading many article from blogs and Facebook group, watching free online course from YouTube and asking my software developer friend for more information.
+Currently, I am intensively studying software tester techniques and tools by attending online courses, reading many article from blogs and Facebook group, watching free online courses from YouTube and asking my software developer friend for more information.
 
 I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal.
 
@@ -28,6 +28,7 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 # Skills
 **Manual testing**
 - Performing manual functional and usability testing of web applications.
+- Create test cases, test scenarios and log issue.
 
 **Automated testing**
 - Performing test execution by using robot framework with seleniumlibrary.
@@ -38,16 +39,11 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 
 **API testing**
 
-- Knowing how to manipulate requests and create test cases using the Postman.
+- Knowing how to manipulate requests and create test cases using Postman.
 
 **SQL databases**
 
 - Writing simple requests using subqueries.
-
-**Python fundamentals**
-
-- Writing simple functions and algorithms.
-- Able to comprehend easy codes.
 
 **HTML and CSS**
 
@@ -82,8 +78,6 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 Coursera courses
 - Foundations of software testing and validation | University of Leeds      
 - Introduction to software testing | University of Minnesota
-- Start your API testing journey with Postman tool
-- API testing a real web application via Postman
 
 # Example of my works
 - Shop online promotion price calculation test scenario and test cases.
@@ -104,7 +98,7 @@ Coursera courses
 
 # Learning resources
 - https://www.coursera.org/
-- Youtube: KongRuksiam Official, Doppio Tech, Siam Chamnankit, BorntoDev
+- YouTube: KongRuksiam Official, Doppio Tech, Siam Chamnankit, BorntoDev
 - https://medium.com/
 - https://www.guru99.com/
 - https://www.softwaretestinghelp.com/
