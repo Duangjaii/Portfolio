@@ -22,7 +22,7 @@ Currently, I am intensively studying software tester techniques and tools by att
 I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal.
 
 # CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1gRfGfPbrh-z_x-C-AegEji9Dnn6ensql/view?usp=sharing) and click [here](https://drive.google.com/drive/folders/1Oegx5d7Do7XzsOBqsB-vjorcLT6dFmDh?usp=sharing) to see my certificates.
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1OZT5jEw8eYSm-PwX-twIZN190nIPj7Zz/view?usp=sharing) and click [here](https://drive.google.com/drive/folders/1Oegx5d7Do7XzsOBqsB-vjorcLT6dFmDh?usp=sharing) to see my certificates.
 
 
 # Skills
