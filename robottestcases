@@ -1,14 +1,6 @@
 *** Settings ***
 Library	SeleniumLibrary
 
-*** Variables ***
-${message}	My Message 
-
-
-*** Keywords ***
-Say Hello
-	Log to console	ThisIsSayHello
-
 *** Test cases ***
 
 TC-001 Verify that when input correct email and password then user can register 
