@@ -103,3 +103,4 @@ Coursera courses
 - https://www.guru99.com/
 - https://www.softwaretestinghelp.com/
 - Facebook group: QA & Testers Thailand
+- https://www.w3schools.com/
