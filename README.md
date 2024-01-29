@@ -80,13 +80,13 @@ Coursera courses
 - Introduction to software testing | University of Minnesota
 
 # Example of my works
-- Shop online promotion price calculation test scenario and test cases.
-
-    Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1tHhDxILCP16fv8JvpIGqSeRjih8cysPO42eBotcSlCg/edit?usp=drive_link).
 
 - API test cases for verifying API can create account, register, login, get the data, update and delete the data.
   
     Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1TLpuRCfgKDXVLkjbjYRC93vVgMbNDWD0jRpB73J_E_Q/edit?usp=drive_link).
+- Shop online promotion price calculation test scenario and test cases.
+
+    Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1tHhDxILCP16fv8JvpIGqSeRjih8cysPO42eBotcSlCg/edit?usp=drive_link).
 
 - Automated testing (Robot Framework with SeleniumLibrary): Register website https://practice.automationtesting.in/my-account.
 
