@@ -6,8 +6,8 @@
 - [Tools](https://github.com/Duangjaii/Portfolio#tools)
 - [Courses](https://github.com/Duangjaii/Portfolio#courses)
 - [Example of my works](https://github.com/Duangjaii/Portfolio#example-of-my-works)
-    - Test cases and Test Scenarios 
     - API Test cases
+    - Test cases and Test Scenarios 
     - Robotframework testing with selenium library
     - Log issue
 - [Learning resources](https://github.com/Duangjaii/Portfolio#learning-resources)
